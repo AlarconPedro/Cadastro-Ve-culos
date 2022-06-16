@@ -1,0 +1,4 @@
+enum BotaoEnum {
+  quadrado,
+  texto
+}
